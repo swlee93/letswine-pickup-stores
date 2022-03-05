@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/letswine-pickup-stores/static/css/main.dcca17ee.css",
-    "main.js": "/letswine-pickup-stores/static/js/main.ee7c66ea.js",
-    "static/js/787.c60f399a.chunk.js": "/letswine-pickup-stores/static/js/787.c60f399a.chunk.js",
+    "main.js": "/letswine-pickup-stores/static/js/main.c749684d.js",
     "index.html": "/letswine-pickup-stores/index.html",
     "main.dcca17ee.css.map": "/letswine-pickup-stores/static/css/main.dcca17ee.css.map",
-    "main.ee7c66ea.js.map": "/letswine-pickup-stores/static/js/main.ee7c66ea.js.map",
-    "787.c60f399a.chunk.js.map": "/letswine-pickup-stores/static/js/787.c60f399a.chunk.js.map"
+    "main.c749684d.js.map": "/letswine-pickup-stores/static/js/main.c749684d.js.map"
   },
   "entrypoints": [
     "static/css/main.dcca17ee.css",
-    "static/js/main.ee7c66ea.js"
+    "static/js/main.c749684d.js"
   ]
 }
