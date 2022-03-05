@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/letswine-pickup-stores/static/css/main.073c9b0a.css",
+    "main.js": "/letswine-pickup-stores/static/js/main.bd982658.js",
+    "static/js/787.c60f399a.chunk.js": "/letswine-pickup-stores/static/js/787.c60f399a.chunk.js",
+    "static/media/logo.svg": "/letswine-pickup-stores/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/letswine-pickup-stores/index.html",
+    "main.073c9b0a.css.map": "/letswine-pickup-stores/static/css/main.073c9b0a.css.map",
+    "main.bd982658.js.map": "/letswine-pickup-stores/static/js/main.bd982658.js.map",
+    "787.c60f399a.chunk.js.map": "/letswine-pickup-stores/static/js/787.c60f399a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bd982658.js"
+  ]
+}
